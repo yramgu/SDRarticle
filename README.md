@@ -6,11 +6,17 @@ The Python code used to support the articles is also made publicly available.
 
 Have fun!
 
------- Requirements of the Pytohn code ------
+------ Requirements of the Python code -------
+
 The code was tested using:
+
 Python 3.5.3
+
 Python 3.6.7
+
 Numpy 1.15.4
+
 Scipy 1.1.0
+
 Matplotlib 3.0.2
 
