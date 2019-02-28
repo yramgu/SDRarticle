@@ -1,8 +1,14 @@
 #!/usr/bin/env python
+#-------------------------------------------------------------------------------
+# Name:         OOK_demod_article
+# Purpose:      Example code for demodulating an OOK signal using RTL-SDR
 #
-# RTL FM Receiver - Python based realtime RF signal processing experiment
-#  @edy555 2016
-# requirement: numpy, scipy, pyaudio, pyrtlsdr
+# Author:       yramgulam
+#
+# Created:      28/02/2019
+# Copyright:    (c) yramgulam2019
+# Licence:      <your licence>
+#-------------------------------------------------------------------------------
 
 import numpy as np
 import scipy.signal
