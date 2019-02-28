@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #-------------------------------------------------------------------------------
-# Name:         OOK_demod_article
+# Name:         OOK_demod_functions
 # Purpose:      Example code for demodulating an OOK signal using RTL-SDR
 #
 # Author:       yramgulam
