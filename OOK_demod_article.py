@@ -18,7 +18,6 @@ import matplotlib.pyplot as plt
 from scipy.io import wavfile
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
-import time
 
 # --- Constants
 bitrate         = 5000
